@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning **Typescript and React native**
 
 - 📫 How to reach me: <br>
-**Mail: leidydi621@gmail.com** <br>
-**WhatsApp: (+57) 3165339535**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
